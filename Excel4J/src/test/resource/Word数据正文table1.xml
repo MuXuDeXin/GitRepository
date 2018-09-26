@@ -1,0 +1,89 @@
+<w:tbl>
+    <w:tblPr>
+        <w:tblStyle w:val="3"/>
+        <w:tblW w:w="32400" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+    </w:tblPr>
+    <w:tblGrid>
+        <w:gridCol w:w="10800"/>
+        <w:gridCol w:w="10800"/>
+        <w:gridCol w:w="10800"/>
+    </w:tblGrid>
+    <w:tr>
+        <w:tblPrEx>
+            <w:tblLayout w:type="fixed"/>
+            <w:tblCellMar>
+                <w:top w:w="0" w:type="dxa"/>
+                <w:left w:w="108" w:type="dxa"/>
+                <w:bottom w:w="0" w:type="dxa"/>
+                <w:right w:w="108" w:type="dxa"/>
+            </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+            <w:tblHeader/>
+        </w:trPr>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="10800" w:type="dxa"/>
+                <w:tcMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="0" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="0" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="top"/>
+            </w:tcPr>
+            <w:p>
+                <w:pPr>
+                    <w:spacing w:line="1" w:lineRule="auto"/>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:bookmarkStart w:id="0" w:name="__bookmark_1"/>
+                <w:bookmarkEnd w:id="0"/>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="10800" w:type="dxa"/>
+                <w:tcMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="0" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="0" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="top"/>
+            </w:tcPr>
+            <w:p>
+                <w:pPr>
+                    <w:spacing w:line="1" w:lineRule="auto"/>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="10800" w:type="dxa"/>
+                <w:tcMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="0" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="0" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="top"/>
+            </w:tcPr>
+            <w:p>
+                <w:pPr>
+                    <w:spacing w:line="1" w:lineRule="auto"/>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+            </w:p>
+        </w:tc>
+    </w:tr>
+</w:tbl>
