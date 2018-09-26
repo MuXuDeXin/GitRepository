@@ -77,12 +77,12 @@
             <artifactId>c3p0</artifactId>
             <version>0.9.1.2</version>
         </dependency>
-        <!--oracle数据库驱动-->
+        <!--oracle数据库驱动
         <dependency>
             <groupId>com.oracle</groupId>
             <artifactId>ojdbc14</artifactId>
             <version>10.2.0.4.0</version>
-        </dependency>
+        </dependency>-->
         <!-- DAO: MyBatis -->
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -231,6 +231,16 @@
                             </execution>
                         </executions>
                     </plugin>
+					<plugin>
+						<groupId>org.codehaus.mojo</groupId>
+						<artifactId>findbugs-maven-plugin</artifactId>
+						<version>3.0.1</version>
+						<configuration>
+							<findbugsXmlOutput>true</findbugsXmlOutput>
+							<findbugsXmlWithMessages>true</findbugsXmlWithMessages>
+							<xmlOutput>true</xmlOutput>
+						</configuration>
+					</plugin>
                 </plugins>
             </build>
 
